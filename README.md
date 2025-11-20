@@ -1,1 +1,3 @@
 # RT-dashboard
+
+Diese ist meine erste app...
